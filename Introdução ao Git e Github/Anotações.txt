@@ -1,0 +1,7 @@
+O Git é um software para versionamento de códigos.
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download do Git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+
+Documentação oficial: https://www.git-scm.com/doc
