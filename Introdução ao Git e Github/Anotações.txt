@@ -2,6 +2,22 @@ O Git é um software para versionamento de códigos.
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
+Dicas importantes
+
+ create a new repository on the command line
+echo "# html-css-js-curso-em-video" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Megusta80/html-css-js-curso-em-video.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Megusta80/html-css-js-curso-em-video.git
+git branch -M main
+git push -u origin main
+
 Link para download do Git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
 
 Documentação oficial: https://www.git-scm.com/doc
